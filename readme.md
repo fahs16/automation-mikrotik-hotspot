@@ -1,3 +1,9 @@
+Tools ini dibuat dengan latar belakang project membuat hotspot pada router di semua dinas pada salah satu pemerintahan di Indonesia.
+
+Kondisinya saat ini, akses ke semua router sama semua user dan passwordnya.
+
+Pada baris 32 script run.py, sesuaikan port, user, dan password.
+
 - Tools ini dibuat untuk memudahkan dan mempercepat konfigurasi router berdasarkan kondisi yang ada saat ini.
 - Karena dari data yang diperoleh dari user dan kondisi yang dialami script inilah yang menurut saya cukup efektif
 - Kumpulan data yang saya peroleh antara lain :
