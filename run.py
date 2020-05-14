@@ -30,7 +30,7 @@ konfig = """
 
 dssh = paramiko.SSHClient()
 dssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-dssh.connect(target, port=22, username='usernya', password='password')
+dssh.connect(target, port=22, username='user', password='password')
 stdin, stdout, stderr = dssh.exec_command(konfig)
 print "===================================="
 print "Berikut Lognya :"
