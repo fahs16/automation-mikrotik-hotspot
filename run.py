@@ -1,7 +1,6 @@
 import readline
-from datetime import datetime
 import paramiko
-import os,sys,socket
+import os
 
 target = raw_input("Masukkan Target IP : ")
 user_hotspot = raw_input("Masukkan user hotspot : ")
